@@ -11,3 +11,7 @@
 [3] Always do a postmortem after a system failure
 
 > Doing a postmortem after a system failure means that not only do we get a backlog of every bug but we also get to think back and learn from our mistakes. 
+
+[4] Always serve over HTTPS
+
+> There are really no excuses for not using TLS. Make sure all of your requests are served securely.
