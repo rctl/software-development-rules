@@ -15,3 +15,11 @@
 [4] Always serve over HTTPS
 
 > There are really no excuses for not using TLS. Make sure all of your requests are served securely.
+
+[5] Release them resources
+
+> Properly releasing resources and closing network connections in a controlled manner should always be taken care of.
+
+[6] Sleep while true
+
+> When blocking a thread with a while(true){} add a sleep to avoid excess CPU usage
