@@ -23,3 +23,11 @@
 [6] Sleep while true
 
 > When blocking a thread with a while(true){} add a sleep to avoid excess CPU usage
+
+[7] Block push to prod
+
+> Do not allow code updates in production without going through the process of testing and deploying. 
+
+[8] Automate deployment
+
+> Require at maximum one user interaction to publish to production (ex. accepting a pull request). Other steps can be automated.
