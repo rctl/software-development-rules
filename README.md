@@ -31,3 +31,7 @@
 [8] Automate deployment
 
 > Require at maximum one user interaction to publish to production (ex. accepting a pull request). Other steps can be automated.
+
+[9] CYOC (Create Your Own Class)
+
+> To avoid conflicts and to structure your code, create your own class when working on a feature. Avoid shared workspaces.
